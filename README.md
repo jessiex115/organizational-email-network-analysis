@@ -1,4 +1,4 @@
-# **Social Network Analysis on an Organizational Email Network: Exploring Key Individuals and Departmental Interactions**
+# **Organizational Email Network Analysis: Exploring Key Individuals and Departmental Interactions**
 
 ## **Overview**
 
